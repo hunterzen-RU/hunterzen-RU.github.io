@@ -1,0 +1,19 @@
+{
+  "packages": [
+    {
+      "name": "my-automation",
+      "version": "1.0",
+      "description": "My custom system cleanup and backup script",
+      "type": "tui",
+      "url": "https://yourusername.github.io/tui-packages/my-automation.tui"
+    },
+    {
+      "name": "mpv-wrapper",
+      "version": "0.35",
+      "description": "Custom mpv launcher binary script",
+      "type": "bin",
+      "target": "mpv",
+      "url": "https://yourusername.github.io/tui-packages/mpv-launcher.sh"
+    }
+  ]
+}
