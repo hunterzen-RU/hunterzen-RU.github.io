@@ -14,6 +14,14 @@
       "type": "tui",
       "target": "sysinfo",
       "url": "https://hunterzen-ru.github.io/TUI/packages/test.tui"
+    },
+    {
+      "name": "tui-app",
+      "version": "6.15.1",
+      "type": "apk",
+      "description": "T-UI Console Launcher Official Release",
+      "url": "https://github.com/hunterzen-RU/TUI/releases/latest/download/consolelauncher-universal-release.apk",
+      "targetName": "tui-update.apk"
     }
   ]
 }
