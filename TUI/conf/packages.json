@@ -20,7 +20,7 @@
       "version": "6.15.1",
       "type": "apk",
       "description": "T-UI Console Launcher Official Release",
-      "url": "https://github.com/hunter-zen-RU/TUI/releases/latest/download/consolelauncher-universal-release.apk",
+      "url": "https://github.com/hunter-zen-RU/TUI/releases/latest/download/tui.apk",
       "targetName": "tui-update.apk"
     }
   ]
