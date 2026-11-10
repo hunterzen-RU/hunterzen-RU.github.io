@@ -8,12 +8,12 @@
       "url": "https://yourusername.github.io/tui-packages/my-automation.tui"
     },
     {
-      "name": "mpv-wrapper",
-      "version": "0.35",
-      "description": "Custom mpv launcher binary script",
-      "type": "bin",
-      "target": "mpv",
-      "url": "https://yourusername.github.io/tui-packages/mpv-launcher.sh"
+      "name": "sys",
+      "version": "0.0",
+      "description": "Comprehensive system health and network monitor using TUI variables.",
+      "type": "tui",
+      "target": "sysinfo",
+      "url": "https://hunterzen-ru.github.io/TUI/packages/test.tui"
     }
   ]
 }
