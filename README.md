@@ -1,5 +1,8 @@
 home of scripts 
-@HUNTECHNOLOGIES
+@HUNRUTECHNOLOGIES
+@hunrutech
+@Hunter-zen-RU
+@Hunterzen-RU
 [![m](https://img.shields.io/badge/github-repo-blue?logo=github)](#)
 # Table of contents
 🥈
