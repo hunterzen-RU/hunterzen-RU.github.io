@@ -2,16 +2,9 @@ home of scripts
 @HUNTECHNOLOGIES
 [![m](https://img.shields.io/badge/github-repo-blue?logo=github)](#)
 # Table of contents
-- 1. [![MAIN SOURCES](https://img.shields.io/text/amin)](#Main-souces)
-- 2. [MAIN SOURCES](#Main-souces)
-- 3. [MAIN SOURCES](#Main-souces)
-- 4. [MAIN SOURCES](#Main-souces)
-- 5. [MAIN SOURCES](#Main-souces)
-- 6. [MAIN SOURCES](#Main-souces)
-- 7. [MAIN SOURCES](#Main-souces)
-- 8. [MAIN SOURCES](#Main-souces)
-- 9. [MAIN SOURCES](#Main-souces)
-  10. - 1. [MAIN SOURCES](#Main-souces)
+🥈
+
+[👤 MAIN](#Main-souces)
 
   
 ## Main souces
